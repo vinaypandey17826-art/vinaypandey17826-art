@@ -6,23 +6,23 @@ I'm learning GitHub, Markdown, and modern developer tools, and I'm building my s
 
 I completed the **GitHub Foundations Part 1 of 2** learning path on Microsoft Learn.
 
-<a href="https://learn.microsoft.com/en-us/users/YOUR-FULL-USERNAME/">
-  <img src="TROPHY_IMAGE_URL" width="100" alt="GitHub Foundations Part 1 of 2 Trophy" />
+<a href="https://learn.microsoft.com/en-us/training/paths/github-foundations/">
+  <img src="https://learn.microsoft.com/en-us/training/achievements/8-learn-continuous-integration-with-github-actions.svg" width="100" alt="GitHub Foundations Part 1 of 2 Trophy" />
 </a>
 
 ### 🎖️ Badges
 
-<a href="https://learn.microsoft.com/en-us/users/YOUR-FULL-USERNAME/">
-  <img src="MARKDOWN_BADGE_URL" width="80" alt="Communicate effectively on GitHub using Markdown" />
+<a href="https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/">
+  <img src="https://learn.microsoft.com/en-us/training/achievements/github/communicate-using-markdown.svg" width="80" alt="Communicate effectively on GitHub using Markdown" />
 </a>
-<a href="https://learn.microsoft.com/en-us/users/YOUR-FULL-USERNAME/">
-  <img src="PROJECTS_BADGE_URL" width="80" alt="Manage your work with GitHub Projects" />
+<a href="https://learn.microsoft.com/en-us/training/modules/manage-work-github-projects/">
+  <img src="https://learn.microsoft.com/en-us/training/achievements/manage-work-github-projects.svg" width="80" alt="Manage your work with GitHub Projects" />
 </a>
-<a href="https://learn.microsoft.com/en-us/users/YOUR-FULL-USERNAME/">
-  <img src="CODESPACES_BADGE_URL" width="80" alt="Code with GitHub Codespaces" />
+<a href="https://learn.microsoft.com/en-us/training/modules/code-with-github-codespaces/">
+  <img src="https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg" width="80" alt="Code with GitHub Codespaces" />
 </a>
-<a href="https://learn.microsoft.com/en-us/users/YOUR-FULL-USERNAME/">
-  <img src="COPILOT_BADGE_URL" width="80" alt="Introduction to GitHub Copilot" />
+<a href="https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot/">
+  <img src="https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg" width="80" alt="Introduction to GitHub Copilot" />
 </a>
 
 | Module | Earned |
