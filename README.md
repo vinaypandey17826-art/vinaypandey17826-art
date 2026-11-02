@@ -2,6 +2,17 @@
 
 I'm learning GitHub, Markdown, Power BI, and modern developer tools, and I'm building my skills one project at a time.
 
+## 🏅 GitHub Profile Achievements
+
+<p align="left">
+  <a href="https://github.com/vinaypandey17826-art?tab=achievements">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" alt="Pull Shark achievement" />
+  </a>
+  <a href="https://github.com/vinaypandey17826-art?tab=achievements">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" alt="YOLO achievement" />
+  </a>
+</p>
+
 ## 🏆 Achievements
 
 ### GitHub Foundations
@@ -63,4 +74,3 @@ I completed the **GitHub Foundations Part 1 of 2** learning path on Microsoft Le
 ## 🔗 Connect
 
 - [My Microsoft Learn profile](https://learn.microsoft.com/en-us/users/YOUR-FULL-USERNAME/)
-
