@@ -1,128 +1,112 @@
 # Hi, I'm Vinay Pandey 👋
 
-**B.Tech Computer Science and Engineering Student at ABES Engineering College, Ghaziabad.**
+**B.Tech Computer Science and Engineering student at ABES Engineering College, Ghaziabad.**
 
-I build full-stack web applications, explore Machine Learning and NLP with Python, and regularly practice Data Structures and Algorithms. I'm looking for internship opportunities in **Full Stack Development, Machine Learning, and Data Analytics**.
+I build full-stack web applications with React, Next.js, Node.js, and MongoDB, and explore machine learning and NLP with Python. I also practice Data Structures and Algorithms and work with data analytics tools.
 
-## 🧰 Tech Stack
+I'm looking for internship opportunities in **Full-Stack Development, Machine Learning, and Data Analytics**.
 
-```javascript
-const VINAY = {
-  role: "B.Tech CSE Student | Full Stack, ML & Data Analytics",
-
-  languages: {
-    highLevel: ["Python", "JavaScript"],
-    intermediate: ["C++", "Java", "SQL"]
-  },
-
-  programming: {
-    frontend: ["React.js", "Next.js", "HTML5", "CSS3"],
-    backend: ["Node.js", "Express.js", "Flask", "REST APIs"],
-    databases: ["MongoDB", "MySQL"],
-    machineLearning: [
-      "Text Preprocessing",
-      "Feature Extraction",
-      "Text Classification"
-    ],
-    nlp: ["TextRank", "Luhn", "LSA"],
-    dataAnalysis: ["EDA", "Microsoft Power BI"],
-    cloud: ["AWS EC2", "AWS S3", "AWS IAM", "AWS VPC"],
-    tools: [
-      "Git", "GitHub", "GitHub Codespaces",
-      "GitHub Projects", "GitHub Copilot", "VS Code"
-    ]
-  },
-
-  csFundamentals: ["DSA", "OOP", "DBMS"]
-};
-```
-
-## 🚀 Projects
-
-| Project | Tech Stack | Description |
-|---|---|---|
-| **Student Roommate Finder** | Next.js, Node.js, Express.js, MongoDB | Full-stack platform helping students find compatible roommates and accommodation. *(In progress)* |
-| **Fake News Detection System** | Python, Machine Learning, NLP | Text classification system to identify potentially fake news using the FakeNewsNet dataset. *(In progress)* |
-| **Automatic Text Summarization** | Python, Flask, NLP | Extractive text summarization using TextRank, Luhn, and Latent Semantic Analysis (LSA). |
-
-## 📜 Certifications
-
-| Certification | Issuer | Date |
-|---|---|---|
-| [AWS Cloud Practitioner Essentials](certificates/aws-cloud-practitioner-essentials.pdf) | AWS Training & Certification | October 2026 |
-| [Exploratory Data Analysis](certificates/eda-futureskills-prime.pdf) | FutureSkills Prime | August 2026 |
-| [Get Started Building with Power BI](https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/) | Microsoft Learn | October 2026 |
-| [Get Data in Power BI](https://learn.microsoft.com/en-us/training/modules/get-data/) | Microsoft Learn | October 2026 |
-
-## ☁️ AWS Achievement
-
-<p align="center">
-  <a href="certificates/aws-cloud-practitioner-essentials.pdf">
-    <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Essentials-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner Essentials Certificate"/>
-  </a>
-</p>
-
-<p align="center">
-  <b>AWS Training & Certification</b><br/>
-  AWS Cloud Practitioner Essentials<br/>
-  Completed: October 29, 2026<br/><br/>
-  <a href="certificates/aws-cloud-practitioner-essentials.pdf">📄 View My AWS Certificate</a>
-</p>
-
-## 🏆 Microsoft Learn Achievements
-
-### GitHub Foundations
-
-<p>
-  <a href="https://learn.microsoft.com/en-us/training/paths/github-foundations/">
-    <img src="https://learn.microsoft.com/en-us/training/achievements/8-learn-continuous-integration-with-github-actions.svg" width="100" alt="GitHub Foundations Trophy"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/">
-    <img src="https://learn.microsoft.com/en-us/training/achievements/github/communicate-using-markdown.svg" width="80" alt="GitHub Markdown"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/training/modules/manage-work-github-projects/">
-    <img src="https://learn.microsoft.com/en-us/training/achievements/manage-work-github-projects.svg" width="80" alt="GitHub Projects"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/training/modules/code-with-github-codespaces/">
-    <img src="https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg" width="80" alt="GitHub Codespaces"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot/">
-    <img src="https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg" width="80" alt="GitHub Copilot"/>
-  </a>
-</p>
-
-### 📊 Power BI & Data Analytics
-
-<p>
-  <a href="https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/">
-    <img src="https://learn.microsoft.com/en-us/training/achievements/data-analytics-and-microsoft.svg" width="80" alt="Data Analytics"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/">
-    <img src="https://learn.microsoft.com/en-us/training/achievements/get-started-power-bi.svg" width="80" alt="Get Started with Power BI"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/training/modules/get-data/">
-    <img src="https://learn.microsoft.com/en-us/training/achievements/get-data.svg" width="80" alt="Get Data in Power BI"/>
-  </a>
-</p>
-
-## 🎯 Currently
-
-- 🚀 Building Student Roommate Finder and Fake News Detection System.
-- 💻 Practicing Data Structures and Algorithms.
-- ☁️ Learning AWS Cloud services.
-- 📊 Improving my Power BI and Data Analytics skills.
-- 🏆 Exploring GitHub and open-source development.
-
-## 📫 Connect With Me
-
-- 💼 [LinkedIn](https://linkedin.com/in/vinay-pandey-b6095b373)
-- 📧 [Email](mailto:vinaypandey17826@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-vinaypandey17826--art-181717?style=for-the-badge&logo=github)](https://github.com/vinaypandey17826-art)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinay%20Pandey-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vinay-pandey-b6095b373)
 
 ---
 
-<p align="center">
-  <i>Learning, Building, and Growing Every Day! 🚀</i>
+## 🧰 Skills & Technologies
+
+| Skill | Technologies |
+|---|---|
+| **Programming Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Backend & APIs** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square) |
+| **Machine Learning & NLP** | ![Text Preprocessing](https://img.shields.io/badge/Text%20Preprocessing-3776AB?style=flat-square) ![Text Classification](https://img.shields.io/badge/Text%20Classification-6A5ACD?style=flat-square) ![TextRank](https://img.shields.io/badge/TextRank-008B8B?style=flat-square) ![Luhn](https://img.shields.io/badge/Luhn-008B8B?style=flat-square) ![LSA](https://img.shields.io/badge/LSA-008B8B?style=flat-square) |
+| **Data Analytics** | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![EDA](https://img.shields.io/badge/Exploratory%20Data%20Analysis-217346?style=flat-square) |
+| **Cloud & Infrastructure** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white) ![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white) ![IAM](https://img.shields.io/badge/IAM-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![VPC](https://img.shields.io/badge/VPC-232F3E?style=flat-square&logo=amazonaws&logoColor=white) |
+| **Developer Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+
+---
+
+## 🚀 Featured Projects
+
+### 1. Student Roommate Finder
+**Tech:** Next.js · Node.js · Express.js · MongoDB
+
+Building a web platform that helps students find compatible roommates and accommodation.
+
+- Developing responsive Next.js interfaces.
+- Building backend services with Express.js.
+- Working on the MongoDB data layer.
+
+### 2. Fake News Detection System
+**Tech:** Python · Machine Learning · NLP
+
+Building a text-classification pipeline that separates likely fake news from genuine articles.
+
+- Text cleaning and preprocessing.
+- Feature extraction and model training.
+- Model evaluation using the FakeNewsNet dataset.
+
+### 3. Automatic Text Summarization
+**Tech:** Python · Flask · NLP
+
+Implementing extractive text summarization using TextRank, Luhn, and Latent Semantic Analysis (LSA).
+
+- Comparing outputs from multiple summarization techniques.
+- Built a Flask web interface to submit long text and view generated summaries.
+
+---
+
+## 🏅 GitHub Achievements
+
+<p align="left">
+  <a href="https://github.com/vinaypandey17826-art?tab=achievements">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90" alt="Pull Shark achievement" />
+  </a>
+  <a href="https://github.com/vinaypandey17826-art?tab=achievements">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" alt="YOLO achievement" />
+  </a>
 </p>
+
+---
+
+## 📜 Certifications & Learning
+
+- **AWS Cloud Practitioner Essentials** — AWS Training & Certification (October 2026)
+- **Exploratory Data Analysis** — FutureSkills Prime, MeitY-NASSCOM Digital Skilling Initiative (August 2026)
+- **Get Started Building with Power BI** — Microsoft Learn (October 2026)
+- **Get Data in Power BI** — Microsoft Learn (October 2026)
+
+### Microsoft Learn achievements
+
+<p align="left">
+  <a href="https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/">
+    <img src="https://learn.microsoft.com/en-us/training/achievements/get-started-power-bi.svg" width="90" alt="Get started building with Power BI" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/training/modules/get-data/">
+    <img src="https://learn.microsoft.com/en-us/training/achievements/get-data.svg" width="90" alt="Get data in Power BI" />
+  </a>
+</p>
+
+---
+
+## 🎓 Education
+
+**B.Tech — Computer Science and Engineering**  
+ABES Engineering College, Ghaziabad, Uttar Pradesh
+
+**Class XII** — Vivekanand Vidyapeeth, Sector 2  
+**Percentage:** 90%
+
+---
+
+## 📫 Connect With Me
+
+- **LinkedIn:** [Vinay Pandey](https://linkedin.com/in/vinay-pandey-b6095b373)
+- **GitHub:** [@vinaypandey17826-art](https://github.com/vinaypandey17826-art)
+
+---
+
+⭐ *I believe in learning by building, improving through practice, and sharing my progress.*
 
 
 
