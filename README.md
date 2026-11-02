@@ -1,29 +1,55 @@
 # Hi, I'm Vinay Pandey 👋
 
-I'm learning GitHub, Markdown, Power BI, and modern developer tools, and I'm building my skills one project at a time.
+**B.Tech Computer Science and Engineering student at ABES Engineering College, Ghaziabad.**
+I build full stack web apps, explore machine learning and NLP with Python, and practice Data Structures and Algorithms regularly. I'm looking for internships in **full stack development, machine learning, or data analytics**.
 
-## 🏅 GitHub Profile Achievements
+## 🧰 Tech Stack
 
-<p align="left">
-  <a href="https://github.com/vinaypandey17826-art?tab=achievements">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" alt="Pull Shark achievement" />
-  </a>
-  <a href="https://github.com/vinaypandey17826-art?tab=achievements">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" alt="YOLO achievement" />
-  </a>
-</p>
+```js
+const VINAY = {
+    role: "B.Tech CSE Student | Full Stack, ML & Data Analytics",
+    languages: {
+        highLevel: ["Python", "JavaScript"],
+        averageLevel: ["C++", "Java", "SQL"]
+    },
+    programming: {
+        frontend: ["React.js", "Next.js", "HTML5", "CSS3"],
+        backend: ["Node.js", "Express.js", "Flask", "REST APIs"],
+        databases: ["MongoDB", "MySQL"],
+        machineLearning: ["Text preprocessing", "Feature extraction", "Text classification"],
+        nlp: ["TextRank", "Luhn", "LSA"],
+        dataAnalysis: ["Exploratory Data Analysis (EDA)", "Microsoft Power BI"],
+        cloud: ["AWS EC2", "AWS S3", "AWS IAM", "AWS VPC"],
+        tools: ["Git", "GitHub", "GitHub Codespaces", "GitHub Projects", "GitHub Copilot", "VS Code"]
+    },
+    csFundamentals: ["Data Structures & Algorithms", "OOP", "DBMS"],
+};
+```
 
-## 🏆 Achievements
+## 🚀 Projects
 
-### GitHub Foundations
+| Project | Tech | What it does |
+|---|---|---|
+| **Student Roommate Finder** | Next.js, Node.js, Express.js, MongoDB | Web platform that helps students find compatible roommates and accommodation. Responsive Next.js interface, Express.js backend, and a MongoDB data layer. *(In progress)* |
+| **Fake News Detection System** | Python, Machine Learning, NLP | Text-classification pipeline that separates likely fake news from genuine articles. Covers text cleaning, feature extraction, model training, and evaluation on the FakeNewsNet dataset. *(In progress)* |
+| **Automatic Text Summarization** | Python, Flask, NLP | Extractive summarization using TextRank, Luhn, and Latent Semantic Analysis (LSA), with the outputs compared. Flask web interface where users submit long text and read the summary. |
 
-I completed the **GitHub Foundations Part 1 of 2** learning path on Microsoft Learn.
+## 📜 Certifications
+
+| Certification | Issuer | Date |
+|---|---|---|
+| [AWS Cloud Practitioner Essentials](certificates/aws-cloud-practitioner-essentials.pdf) | AWS Training & Certification | Oct 2026 |
+| [Exploratory Data Analysis](certificates/eda-futureskills-prime.pdf) | FutureSkills Prime (MeitY-NASSCOM Digital Skilling Initiative) | Aug 2026 |
+| [Get Started Building with Power BI](https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/) | Microsoft Learn badge | Oct 2026 |
+| [Get Data in Power BI](https://learn.microsoft.com/en-us/training/modules/get-data/) | Microsoft Learn badge | Oct 2026 |
+
+## 🏆 Microsoft Learn Achievements
+
+### GitHub Foundations Part 1 of 2
 
 <a href="https://learn.microsoft.com/en-us/training/paths/github-foundations/">
   <img src="https://learn.microsoft.com/en-us/training/achievements/8-learn-continuous-integration-with-github-actions.svg" width="100" alt="GitHub Foundations Part 1 of 2 Trophy" />
 </a>
-
-#### 🎖️ Badges
 
 <a href="https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/">
   <img src="https://learn.microsoft.com/en-us/training/achievements/github/communicate-using-markdown.svg" width="80" alt="Communicate effectively on GitHub using Markdown" />
@@ -38,13 +64,6 @@ I completed the **GitHub Foundations Part 1 of 2** learning path on Microsoft Le
   <img src="https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg" width="80" alt="Introduction to GitHub Copilot" />
 </a>
 
-| Module | Earned |
-|---|---|
-| Communicate effectively on GitHub using Markdown | Nov 2, 2026 |
-| Manage your work with GitHub Projects | Nov 2, 2026 |
-| Code with GitHub Codespaces | Nov 2, 2026 |
-| Introduction to GitHub Copilot | Nov 2, 2026 |
-
 ### 📊 Power BI & Data Analytics
 
 <a href="https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/">
@@ -57,20 +76,17 @@ I completed the **GitHub Foundations Part 1 of 2** learning path on Microsoft Le
   <img src="https://learn.microsoft.com/en-us/training/achievements/get-data.svg" width="80" alt="Get data in Power BI" />
 </a>
 
-| Module | Level |
-|---|---|
-| [Explore the analytics process that turns data into insights](https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/) | Beginner |
-| [Get started building with Power BI](https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/) | Beginner |
-| [Get data in Power BI](https://learn.microsoft.com/en-us/training/modules/get-data/) | Intermediate |
+## 🎯 Currently
 
-## 🛠️ What I'm Learning
+- Building the Student Roommate Finder and the Fake News Detection System
+- Practicing Data Structures and Algorithms
+- Learning more about cloud (AWS), Power BI, and GitHub
 
-- GitHub and version control
-- Markdown
-- GitHub Projects and Codespaces
-- GitHub Copilot
-- Power BI and data analytics
+## 📫 Connect
 
-## 🔗 Connect
+- 💼 [LinkedIn](https://linkedin.com/in/vinay-pandey-b6095b373)
+- 📧 [vinaypandey17826@gmail.com](mailto:vinaypandey17826@gmail.com)
 
-- [My Microsoft Learn profile](https://learn.microsoft.com/en-us/users/YOUR-FULL-USERNAME/)
+
+
+
