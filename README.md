@@ -1,8 +1,10 @@
 # Hi, I'm Vinay Pandey 👋
 
-I'm learning GitHub, Markdown, and modern developer tools, and I'm building my skills one project at a time.
+I'm learning GitHub, Markdown, Power BI, and modern developer tools, and I'm building my skills one project at a time.
 
 ## 🏆 Achievements
+
+### GitHub Foundations
 
 I completed the **GitHub Foundations Part 1 of 2** learning path on Microsoft Learn.
 
@@ -10,7 +12,7 @@ I completed the **GitHub Foundations Part 1 of 2** learning path on Microsoft Le
   <img src="https://learn.microsoft.com/en-us/training/achievements/8-learn-continuous-integration-with-github-actions.svg" width="100" alt="GitHub Foundations Part 1 of 2 Trophy" />
 </a>
 
-### 🎖️ Badges
+#### 🎖️ Badges
 
 <a href="https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/">
   <img src="https://learn.microsoft.com/en-us/training/achievements/github/communicate-using-markdown.svg" width="80" alt="Communicate effectively on GitHub using Markdown" />
@@ -32,13 +34,33 @@ I completed the **GitHub Foundations Part 1 of 2** learning path on Microsoft Le
 | Code with GitHub Codespaces | Nov 2, 2026 |
 | Introduction to GitHub Copilot | Nov 2, 2026 |
 
+### 📊 Power BI & Data Analytics
+
+<a href="https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/">
+  <img src="https://learn.microsoft.com/en-us/training/achievements/data-analytics-and-microsoft.svg" width="80" alt="Explore the analytics process that turns data into insights" />
+</a>
+<a href="https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/">
+  <img src="https://learn.microsoft.com/en-us/training/achievements/get-started-power-bi.svg" width="80" alt="Get started building with Power BI" />
+</a>
+<a href="https://learn.microsoft.com/en-us/training/modules/get-data/">
+  <img src="https://learn.microsoft.com/en-us/training/achievements/get-data.svg" width="80" alt="Get data in Power BI" />
+</a>
+
+| Module | Level |
+|---|---|
+| [Explore the analytics process that turns data into insights](https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/) | Beginner |
+| [Get started building with Power BI](https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/) | Beginner |
+| [Get data in Power BI](https://learn.microsoft.com/en-us/training/modules/get-data/) | Intermediate |
+
 ## 🛠️ What I'm Learning
 
 - GitHub and version control
 - Markdown
 - GitHub Projects and Codespaces
 - GitHub Copilot
+- Power BI and data analytics
 
 ## 🔗 Connect
 
 - [My Microsoft Learn profile](https://learn.microsoft.com/en-us/users/YOUR-FULL-USERNAME/)
+
