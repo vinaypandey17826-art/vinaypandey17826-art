@@ -87,6 +87,14 @@ I build full-stack web applications, explore Machine Learning and NLP with Pytho
   </a>
 </p>
 
+### 🌍 Contribute to Open Source
+
+<p align="center">
+  <a href="https://learn.microsoft.com/en-us/training/modules/contribute-open-source/">
+    <img src="https://img.shields.io/badge/Microsoft_Learn-Contribute_to_Open_Source-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" alt="Contribute to an open-source project on GitHub" />
+  </a>
+</p>
+
 ### 📊 Power BI & Data Analytics
 
 <p align="center">
